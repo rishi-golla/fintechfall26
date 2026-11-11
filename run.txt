@@ -1,0 +1,5 @@
+cd fintechfall26
+
+docker compose up --build -d
+
+docker compose down
