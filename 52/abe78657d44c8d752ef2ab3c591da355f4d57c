@@ -1,0 +1,19 @@
+docs/PRD.md
+  s_b6c6a46bb4bba9::t_388f1767b2ee18 1-895
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "52abe78657d44c8d752ef2ab3c591da355f4d57c",
+  "prompts": {},
+  "sessions": {
+    "s_b6c6a46bb4bba9": {
+      "agent_id": {
+        "tool": "devin",
+        "id": "s_b6c6a46bb4bba9",
+        "model": "unknown"
+      },
+      "human_author": "rishi-golla <rishigolla.123@gmail.com>"
+    }
+  }
+}
